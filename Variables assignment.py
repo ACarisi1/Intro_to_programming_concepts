@@ -1,7 +1,7 @@
 multiple = int(input("Enter a number: \n"))
 multiple2 = int(input("Enter another number: \n"))
-MultipleAns = multiple*multiple2
-print("The answer to your query is: ", MultipleAns)
+multipleAns = multiple*multiple2
+print("The answer to your query is: ", multipleAns)
 
 divide = int(input("Enter a number: \n"))
 divide2 = int(input("Enter another number: \n"))
