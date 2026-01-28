@@ -5,7 +5,10 @@ usage = int(input("How many kilowatt hours have you used?: "))
 
 if usage <= 1000:
     cost = usage * charge
-    print("Amount owed:", cost)
+    roundedCost = f"{cost:.2f}"
+    print("Amount owed:", roundedCost)
 else:
     cost = (usage - 1000) *overCharge
-    print("Amount owed:", cost)
+    cost = cost + (1000 * charge)
+    roundedCost = f"{cost:.2f}"
+    print("Amount owed is :", roundedCost)
