@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b156bf1f-794f-4600-8145-f2c449dfa241" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Branching_assingment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Branching_assingment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Branching_assingment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Branching_assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769552843064</updated>
       <workItem from="1769552844067" duration="20000" />
-      <workItem from="1769563662165" duration="917000" />
+      <workItem from="1769563662165" duration="1006000" />
     </task>
     <servers />
   </component>
