@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b156bf1f-794f-4600-8145-f2c449dfa241" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Branching_assingment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Branching_assignment.py" afterDir="false" />
+    <list default="true" id="71fc8adb-b482-4c5c-85e4-b737118393e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Intro_to_programming_concepts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="38rLfCI7uBh3tM4QY56n5qCs0py" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="39B1L2jPuHT06qxpd77dZRpS3fn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +29,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Branching_assingment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -43,31 +47,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b156bf1f-794f-4600-8145-f2c449dfa241" name="Changes" comment="" />
-      <created>1769552843064</created>
+      <changelist id="71fc8adb-b482-4c5c-85e4-b737118393e9" name="Changes" comment="" />
+      <created>1770154590253</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1769552843064</updated>
-      <workItem from="1769552844067" duration="20000" />
-      <workItem from="1769563662165" duration="1006000" />
+      <updated>1770154590253</updated>
+      <workItem from="1770154591253" duration="3257000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$Branching_assingment.coverage" NAME="Branching_assingment Coverage Results" MODIFIED="1769564467835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
