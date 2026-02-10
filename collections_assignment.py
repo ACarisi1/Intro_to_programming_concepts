@@ -13,7 +13,6 @@ def gradeLetter():
         print("D")
     else:
         print("F")
-    print(average2)
 inputGrades = int(input("Enter the students Grade: "))
 gradeList = []
 gradeList.append(inputGrades)
