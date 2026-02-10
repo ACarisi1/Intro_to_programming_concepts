@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0743896f-ad7c-4b65-8d49-d7f342c8d66e" name="Changes" comment="">
+    <list default="true" id="21363813-6168-42a0-a6ee-3183b522ea6b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +12,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="39B9bZFZyYt4sw9FFvaM0vPHYp0" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="39UiF7JGgz0y1Tij3Bh2yi5Cpqs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +24,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.function_assignment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -43,20 +42,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0743896f-ad7c-4b65-8d49-d7f342c8d66e" name="Changes" comment="" />
-      <created>1770158668954</created>
+      <changelist id="21363813-6168-42a0-a6ee-3183b522ea6b" name="Changes" comment="" />
+      <created>1770756943896</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770158668954</updated>
-      <workItem from="1770158669965" duration="76000" />
-      <workItem from="1770215947310" duration="926000" />
+      <updated>1770756943896</updated>
+      <workItem from="1770756945063" duration="2974000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$function_assignment.coverage" NAME="function_assignment Coverage Results" MODIFIED="1770216807119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
