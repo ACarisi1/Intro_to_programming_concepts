@@ -36,3 +36,11 @@ countfruitList = len(fruitList)
 print(countfruitList)
 
 #tuples are static (cannot grow or shrink)
+#tuples are not mutable
+
+carTuple = ("Corolla", "Civic", "Rogue", "Sentra", "Eclipse")
+print(carTuple)
+print(carTuple[2])
+
+toyTuple = carTuple
+print(toyTuple)
