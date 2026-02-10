@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21363813-6168-42a0-a6ee-3183b522ea6b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections_notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections_notes.py" afterDir="false" />
+    <list default="true" id="9b0f9500-2bc3-4b12-8053-ad19d2914fe3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Intro_to_programming_concepts 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Intro_to_programming_concepts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="39UiF7JGgz0y1Tij3Bh2yi5Cpqs" />
+  <component name="ProjectId" id="39UtY7bGDfhOwSqSCqWLeCf2Iog" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.collections_assignment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -43,16 +52,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="21363813-6168-42a0-a6ee-3183b522ea6b" name="Changes" comment="" />
-      <created>1770756943896</created>
+      <changelist id="9b0f9500-2bc3-4b12-8053-ad19d2914fe3" name="Changes" comment="" />
+      <created>1770762521698</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770756943896</updated>
-      <workItem from="1770756945063" duration="3992000" />
+      <updated>1770762521698</updated>
+      <workItem from="1770762522699" duration="737000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$collections_assignment.coverage" NAME="collections_assignment Coverage Results" MODIFIED="1770763220010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
