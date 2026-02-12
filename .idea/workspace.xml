@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6eaafc0-c432-4043-a669-eeb7ff4d98ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/romanNumeral.py" beforeDir="false" afterPath="$PROJECT_DIR$/romanNumeral.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,8 @@
       <updated>1770862749988</updated>
       <workItem from="1770862751106" duration="1658000" />
       <workItem from="1770903336335" duration="1238000" />
-      <workItem from="1770906665136" duration="669000" />
+      <workItem from="1770906665136" duration="1082000" />
+      <workItem from="1770917841460" duration="243000" />
     </task>
     <servers />
   </component>
@@ -58,6 +60,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$romanNumeral.coverage" NAME="romanNumeral Coverage Results" MODIFIED="1770907065912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$romanNumeral.coverage" NAME="romanNumeral Coverage Results" MODIFIED="1770918050637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

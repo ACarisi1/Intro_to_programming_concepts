@@ -43,6 +43,8 @@ def roman_convert(s: str) -> int:
                (curr == 'X' and next_ not in "LC") or \
                (curr == 'C' and next_ not in "DM"):
                 return -1
+            if i >0 and s[i-1] == curr:
+                return -1
             if repeat_count > 1:
                 return -1
             total -= curr_val
