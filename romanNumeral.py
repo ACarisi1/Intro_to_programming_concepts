@@ -32,7 +32,9 @@ def roman_convert(s: str) -> int:
             if curr in "VLD" or repeat_count > 3:
                 return -1
         else:
-            repeat_count = 1
+            if curr_val <next_val and repeat_count > 1:
+                return -1
+        repeat_count = 1
 
         # Rule 4 & 5: subtraction rules
         if curr_val < next_val:
