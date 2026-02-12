@@ -9,7 +9,6 @@ def roman_convert(s: str) -> int:
     if not s:
         return -1
 
-    s = s.upper()
 
     # Rule 1: valid characters
     for ch in s:
