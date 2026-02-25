@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce50231b-9255-4ae3-91c5-87d7a1592a61" name="Changes" comment="">
+    <list default="true" id="edaa228b-1213-4cf8-96db-bb258e8839d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
   "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="3A8HsE6R1lx9Ikf0agT7OUgEvIj" />
+  <component name="ProjectId" id="3AAimwCtB3tN4hdV3PbTlbhSTdY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +24,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.loops_assignment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -42,16 +43,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ce50231b-9255-4ae3-91c5-87d7a1592a61" name="Changes" comment="" />
-      <created>1771967481622</created>
+      <changelist id="edaa228b-1213-4cf8-96db-bb258e8839d4" name="Changes" comment="" />
+      <created>1772041937327</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1771967481622</updated>
-      <workItem from="1771967482662" duration="3370000" />
+      <updated>1772041937327</updated>
+      <workItem from="1772041938420" duration="1426000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$loops_assignment.coverage" NAME="loops_assignment Coverage Results" MODIFIED="1772043330901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
