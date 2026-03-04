@@ -55,22 +55,6 @@ print(students["vid1111"]["name"], students["vid1111"]["gpa"])
 print(students["vid1232"]["name"])
 print(students["vid3863"]["name"])
 
-food = {
-    "taco": 1,
-    "burrito":1,
-    "nachos":1,
-    "drink":1
-}
-print("Here are your options: taco, burrito, nachos, drink")
 
-
-total = 0
-while True:
-    ans = input("Enter what you would like to order: ")
-    if "Q":
-        print(total)
-        break
-    if ans in food:
-        total +=food[ans]
 
 
