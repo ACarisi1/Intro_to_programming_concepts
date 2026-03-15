@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3914eecf-7525-4550-826a-e6e0b01ec876" name="Changes" comment="">
+    <list default="true" id="8804264c-d93c-4919-b10e-37dc5ec9aa86" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,10 @@
   "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="3AUnMPq0nBhKWFHlAzuDcGVWhhT" />
+  <component name="ProjectId" id="3Az7Cihmc5yWQxcirE2Fi8AY1ML" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +27,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.flowchart_assignment.executor": "Run",
+    "Python.object_oriented_assignment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -43,12 +46,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3914eecf-7525-4550-826a-e6e0b01ec876" name="Changes" comment="" />
-      <created>1772655968157</created>
+      <changelist id="8804264c-d93c-4919-b10e-37dc5ec9aa86" name="Changes" comment="" />
+      <created>1773583420083</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1772655968157</updated>
-      <workItem from="1772655969182" duration="1698000" />
+      <updated>1773583420083</updated>
+      <workItem from="1773583421092" duration="1077000" />
     </task>
     <servers />
   </component>
@@ -56,6 +59,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$flowchart_assignment.coverage" NAME="flowchart_assignment Coverage Results" MODIFIED="1772657535098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$object_oriented_assignment.coverage" NAME="object_oriented_assignment Coverage Results" MODIFIED="1773584418866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
