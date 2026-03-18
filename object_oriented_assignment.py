@@ -18,7 +18,8 @@ class NFLteam:
             print(player.player_name, "-" , player.player_position)
 
 
-new_team = NFLteam("New Team")
+userTeam = input("What would you like your team name to be? ")
+new_team = NFLteam(userTeam)
 rounds = int(input("Enter number of players to add to your team: "))
 for i in range(rounds):
     name = input("Enter player name: ")
