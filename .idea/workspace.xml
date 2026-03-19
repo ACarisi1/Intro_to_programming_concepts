@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="733cf034-b817-4597-9887-37fba6cf7854" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Intro_to_programming_concepts 2.iml" beforeDir="false" />
+    <list default="true" id="bfd2b8a6-5a8d-454f-9eee-098a10c9a667" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Intro_to_programming_concepts.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
@@ -23,9 +18,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="3BAVXupyXQMsWlhgET2GbbAgvrE" />
+  <component name="ProjectId" id="3BAj1vy1eTahFkE2rOBfvfJEKGC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.project2.executor": "Run",
+    "Python.project3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -52,12 +48,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="733cf034-b817-4597-9887-37fba6cf7854" name="Changes" comment="" />
-      <created>1773931904884</created>
+      <changelist id="bfd2b8a6-5a8d-454f-9eee-098a10c9a667" name="Changes" comment="" />
+      <created>1773938556729</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1773931904884</updated>
-      <workItem from="1773931908824" duration="4737000" />
+      <updated>1773938556729</updated>
+      <workItem from="1773938557742" duration="489000" />
     </task>
     <servers />
   </component>
@@ -65,6 +61,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$project2.coverage" NAME="project2 Coverage Results" MODIFIED="1773936626298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Intro_to_programming_concepts$project3.coverage" NAME="project3 Coverage Results" MODIFIED="1773939025886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
