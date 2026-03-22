@@ -50,7 +50,7 @@ def done():
             "See Ya Real Soon")
 
 available = ["2B","3A","5B","6A","6B","8B","9B","10A"]
-taken = ["2A","3B","5A","7B","8A","9A","10B"]
+taken = ["2A","3B","4A", "4B","5A","7B","8A","9A","10B"]
 first_class = ["1A","1B",]
 exit_rows = ["7A"]
 seat_selections = []
